@@ -54,7 +54,7 @@ This repository contains a computational framework for simulating the dynamics o
 ### How to Cite
 If you use this repository in your work, please cite:
 ```
-Your Name. "Simulating Microwave Heating in Heterogeneous Materials Using Python." GitHub, [Year]. Available at: [Repository Link]
+Sayandeepa Raha. "A Computational Framework for Simulating Microwave Heating in Heterogeneous Materials Using Python (FEniCS and PyMesh)" GitHub, [2024]. Available at: https://github.com/Sayandeepa7/MicrowaveHeating_Simulation
 ```
 
 ---
